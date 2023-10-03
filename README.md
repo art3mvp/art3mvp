@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @art3mvp
 - 👀 I’m interested in AI, big data, machine learning, NLL
-- 🌱 I’m currently learning Python, SQl, noSQL
+- 🌱 I’m currently learning Python, SQl
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
